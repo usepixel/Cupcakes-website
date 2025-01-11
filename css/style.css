@@ -52,3 +52,60 @@ body{
     display: block;
     margin-top: 31px;
 }
+
+.header__content-block{
+    width: 647px;
+    height: 462px;
+    margin-top: 188px;
+}
+.header__overline-text{
+    width: 132px;
+    padding: 10px 18px;
+    background-color: #fff;
+    border-radius: 5px;
+    letter-spacing: 1.1px;
+    text-align: center;
+    font-size: 11px;
+    line-height: 16.5px;
+    text-transform: uppercase;
+    color: #2E363E;
+}
+.header__title-text{
+    font-weight: 700;
+    color: #fff;
+    font-size: 48px;
+    line-height: 60px;
+    letter-spacing: -1px;
+    width: 647px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+.header__subtitle-text{
+    font-size: 24px;
+    color: #fff;
+    line-height: 34px;
+    width: 544px;
+}
+.header__buttonAndText-wrapper{
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.header__button-link{
+    font-size: 18px;
+    line-height: 27px;
+    font-weight: 500;
+    text-decoration: none;
+    text-align: center;
+    color: #2E363E;
+    padding: 30px 50px;
+    background-color: #FED84C;
+    border-radius: 8px;
+}
+.header__button-text{
+    color: #fff;
+    font-size: 15px;
+    line-height: 24px;
+    margin: 0px;
+}
