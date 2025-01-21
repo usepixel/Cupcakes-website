@@ -42,3 +42,10 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+.header::before,
+.header::after {
+    content: '';
+    border: none;
+    outline: none;
+    box-shadow: none;
+}
